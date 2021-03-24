@@ -75,5 +75,10 @@ Try to put a blank line before...
 
 ---
 
+quick brown fox jumps over the lazy dog
+
+---
+
+
 ...and after a horizontal rule.
 
