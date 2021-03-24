@@ -71,14 +71,11 @@ func main() {
 
 
 
-Try to put a blank line before...
 
----
+### horizontal rule
 
 quick brown fox jumps over the lazy dog
-
 ---
 
 
-...and after a horizontal rule.
 
