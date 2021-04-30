@@ -9,7 +9,7 @@
 
 ### another md
 
-[chaos.md](https://github.com/DDZ-dot/CS-Course/blob/main/English/DDZ.md)
+[DDZ.md](https://github.com/DDZ-dot/CS-Course/blob/main/English/DDZ.md)
 
 ### local img
 
