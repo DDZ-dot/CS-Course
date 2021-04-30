@@ -5,11 +5,11 @@
 
 ### hyperlink
 
-[typora](https://typora.io/)
+[Google](https://www.google.com/)
 
 ### another md
 
-[chaos.md](https://github.com/fichas/CS-Course/blob/main/English/chaos.md)
+[chaos.md](https://github.com/DDZ-dot/CS-Course/blob/main/English/DDZ.md)
 
 ### local img
 
